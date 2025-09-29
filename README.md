@@ -8,7 +8,6 @@
 ---
 
 ## 🧠 About Me — SYSTEM INFO
-```bash
 > whoami
 Name:            Trixie Misheen
 Role:            Python Developer / Full-Stack Aspirant
