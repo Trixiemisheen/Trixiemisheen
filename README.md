@@ -48,3 +48,10 @@ Flask — APIs, routing, web backends
 Databases — SQLite & PostgreSQL
 
 Tools — Git, GitHub, VS Code, basic Docker
+> ls -la ./projects
+📊 GitHub Presence
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TrixieMisheen&show_icons=true&theme=tokyonight&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" alt="github stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrixieMisheen&theme=tokyonight&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF" alt="streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrixieMisheen&layout=compact&theme=tokyonight&hide=html,css" alt="top languages" /> </p>
+🛠️ Badges & Status
+<p align="center"> <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Android-0F0?style=for-the-badge&logo=windows&logoColor=white" alt="os badge" /> <img src="https://img.shields.io/badge/editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" /> <img src="https://img.shields.io/badge/learning-Flask%20%26%20APIs-00FF00?style=for-the-badge" alt="learning" /> <img src="https://img.shields.io/badge/role-Open%20to%20Collaborate-00FF00?style=for-the-badge" alt="collab" /> </p>
+🔗 Contact & Socials
+<p align="center"> <a href="https://github.com/TrixieMisheen"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://linkedin.com/in/trixiemisheen"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="mailto:trixie.misheen@protonmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> </p>
