@@ -35,3 +35,16 @@ Interests:       Automation, UI tooling, app packaging (exe/apk)
 Goal:            Become a top Python Full-Stack Dev
 FunFact:         I turn coffee ☕ into readable, testable code 💻
 Availability:    Open to collabs / bug bounties / freelance school apps
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,tk,html,css,js,git,github,vscode,sqlite,postgres,docker" alt="tech icons"/> </p>
+
+Proficiencies
+
+Python — OOP, automation, modular programming
+
+Tkinter — desktop GUIs for school/management tools
+
+Flask — APIs, routing, web backends
+
+Databases — SQLite & PostgreSQL
+
+Tools — Git, GitHub, VS Code, basic Docker
